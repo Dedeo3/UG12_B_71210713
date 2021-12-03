@@ -1,0 +1,1 @@
+print("saya tadi sudah mencoba mengerjakan tapi saya sudah ga tau lagi. jadi saya merelakan nomor 2")
